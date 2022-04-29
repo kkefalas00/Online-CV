@@ -1,0 +1,256 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family: Roboto;
+	
+}
+.mainsite .glyphicon
+{
+	color:#0bbfa6;
+}
+
+
+.mybar a:hover {
+	
+	color:#00B !important;
+	font-size:18pt !important;
+	margin-top:-5px;
+	box-shadow:5px 5px 5px gray;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	
+	color:blue !important;
+	font-size:18pt !important;
+}
+
+#em 
+{
+	text-decoration:none;
+	color:black;
+}
+.mybar{
+	padding-top:30px;
+	padding-bottom:30px;
+	background-color:#ccffff;
+	border:none;	
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	
+	color:black;
+	font-size:15pt;
+	font-family: Roboto;
+}
+
+.navbar-inverse .navbar-brand {
+	
+	color:black;
+	font-size:15pt;
+	font-family: Roboto;
+}
+
+#Home{
+	
+	padding-top:150px;
+}
+#hr1
+{
+	border:2px solid #ccffff;
+	width:60px;
+}
+
+#im1 {
+	
+	text-align:center;
+	
+	
+	
+}
+
+#im1 img {
+	border-radius:70px;
+}
+
+#para1 {
+	
+	width:70%;
+	margin-left:15%;
+	text-align:center;
+	
+}
+
+#myCarousel img{
+	
+	width:720px;
+	height:400px;
+}
+
+#myCarousel{
+	
+	width:720px;
+	height:400px;
+	margin:auto;
+	margin-top:25px;
+}
+
+#About{
+	
+	width:60%;
+	margin-left:20%;
+	text-align:left;
+	font-size:15pt;
+	font-family: Roboto;
+	line-height:40px;
+	
+}
+#Experience{
+	
+	width:60%;
+	margin-left:20%;
+	text-align:left;
+	font-size:15pt;
+	font-family: Roboto;
+	line-height:40px;
+	
+}
+.e1{
+	
+	width:215px;
+	height:215px;
+	margin:auto;
+}
+.eik1 {
+	
+	width:100%;
+	height:auto;
+	margin:auto;
+	
+}
+#eikuth {
+	
+	width:72% !important;
+	padding-bottom:;
+	margin:30px;
+}
+
+.para3{
+	
+font-family: Roboto;
+
+
+	
+}
+.eikskil{
+	
+	
+}
+.eikskil:hover{
+	
+	height:140px !important;
+		
+}
+
+.skl{
+	
+	
+	height:180px;
+	text-align:Center;
+}
+
+.skl img{
+	height: 100px;
+}
+
+.map{
+	
+}
+.txt{
+	padding-top:80px;
+	line-height:32px;
+	font-size:14pt;
+	
+}
+.pr1 {
+	
+	width:70%;
+	margin-left:20%;
+	font-size:12pt;
+	
+}
+
+.pr1 a{
+	
+	text-decoration:none;
+}
+
+#Contact {
+	
+	margin-top:80px;
+}
+
+#About{
+	
+	margin-top:100px;
+	padding-top:100px;
+}
+
+#Education{
+	
+	margin-top:100px;
+	padding-top:100px;
+}
+
+#Experience{
+	
+	margin-top:100px;
+	padding-top:100px;
+}
+
+#Skills{
+	
+	margin-top:100px;
+	padding-top:100px;
+}
+#Projects{
+	
+	margin-top:100px;
+	padding-top:100px;
+	
+}
+
+#Contact{
+	
+	margin-top:100px;
+	padding-top:100px;
+}
+
+@media screen and (max-width:800px)
+{
+	.skl img {
+	
+		
+	}
+	.skl {
+		text-align:center;
+	}
+#myCarousel img
+{
+	
+	width:400px;
+	height:200px;
+}
+
+#myCarousel{
+	
+	width:400px;
+	height:200px;
+	margin:auto;
+	margin-top:25px;
+}
+
+
+}
+
+
